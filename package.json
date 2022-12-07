@@ -1,4 +1,22 @@
 {
+  "name": "heroes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UrrutiaFranco/franco-U-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UrrutiaFranco/franco-U-/issues"
+  },
+  "homepage": "https://github.com/UrrutiaFranco/franco-U-#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
